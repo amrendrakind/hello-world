@@ -49,7 +49,7 @@ Move into project directory
 
 ### Run API
 
-- Located in `react-app\` within root folder
+- Located in `app/javascript/react-app` within root folder
 - run npm i to install dependencies . run npm start to start the React App
 - The app ask to select a different port:
     - Something is already running on port 3000
