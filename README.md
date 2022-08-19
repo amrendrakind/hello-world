@@ -77,7 +77,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Based on [Gregoire Vella on Behance design](https://www.behance.net/gregoirevella)
 - Hat tip to anyone whose code was used
 - Inspiration and support from peer group
 
